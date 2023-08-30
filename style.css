@@ -48,6 +48,8 @@
 }
 
 .header__hero__content {
+  display: flex;
+  flex-direction: column;
   flex: 1;
 }
 
@@ -59,6 +61,11 @@
 .header__hero__content--text {
   font-size: 18px;
   color: #e5e7eb;
+  width: 90%;
+}
+
+.header__hero__content__button {
+  margin-top: auto;
 }
 
 .header__hero__content--sign-up {
