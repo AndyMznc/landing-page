@@ -83,3 +83,39 @@
   display: block;
   max-width: 100%;
 }
+
+.information {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 32px auto 48px;
+}
+
+.information--title {
+  margin-bottom: 32px;
+  font-size: 36px;
+  font-weight: 800;
+  color: #1F2937;
+}
+
+.information__container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.information__container__single {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 155px
+}
+
+.information__container__single--img {
+  border-radius: 10px;
+}
+
+.information__container__single--text {
+  padding-top: 8px;
+  text-align: center;
+}
