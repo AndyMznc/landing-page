@@ -7,7 +7,7 @@ TL;DR :
 <br>
 
 
-[Voir le code - View code](https://github.com/AndyMznc/landing-page)
+[Voir le code - View code](https://github.com/AndyMznc/landing-page) <br>
 [Aperçu en direct - Live preview](https://andymznc.github.io/landing-page/)
 
 <br>
