@@ -145,7 +145,7 @@
 }
 
 .section__sign-up {
-  margin: 48px auto;
+  margin: 80px auto;
 }
 .section__sign-up .wrapper {
   background-color: #3382f6;
@@ -153,8 +153,7 @@
 }
 
 .sign-up {
-  padding: 32px 0;
-
+  padding: 48px 0;
   color: #f9faf8;
   display: flex;
   max-width: 730px;
@@ -162,8 +161,6 @@
 }
 
 .sign-up__texts--large {
-  /* font-size: 36px;
-  font-weight: 800; */
   font-weight: bold;
 }
 
@@ -182,4 +179,15 @@
   padding: 5px 25px;
   color: #fff;
   text-decoration: none;
+}
+
+.footer {
+  background-color: #1f2937;
+  padding: 32px 0;
+}
+
+.footer--text {
+  color: #e5e7eb;
+  width: 300px;
+  margin: 0 auto;
 }
